@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vehicle House</string>
+    <string-array name="list_jenis">
+        <item>Mobil</item>
+        <item>Motor</item>
+    </string-array>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_riwayat">Riwayat</string>
+    <string name="title_pengaturan">Pengaturan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_edit_profile">EditProfile</string>
+</resources>
